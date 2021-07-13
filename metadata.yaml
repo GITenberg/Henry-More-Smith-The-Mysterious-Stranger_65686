@@ -1,0 +1,23 @@
+_repo: Henry-More-Smith-The-Mysterious-Stranger_65686
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bates, Walter
+    gutenberg_agent_id: '53460'
+    url: http://www.gutenberg.org/2009/agents/53460
+description: ''
+gutenberg_issued: '2021-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65686'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criminals -- Canada -- Biography'
+- !lcc 'HV'
+- !lcsh 'Smith, Henry More, active 1812-1836'
+- GITenberg
+title: 'Henry More Smith: The Mysterious Stranger'
+url: http://www.gutenberg.org/ebooks/65686
