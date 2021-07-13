@@ -1,11 +1,16 @@
 _repo: Henry-More-Smith-The-Mysterious-Stranger_65686
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65686-h/images/cover.jpg
 creator:
   author:
     agent_name: Bates, Walter
     gutenberg_agent_id: '53460'
     url: http://www.gutenberg.org/2009/agents/53460
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65686#Henry-More-Smith-The-Mysterious-Stranger
 gutenberg_issued: '2021-06-24'
 gutenberg_type: Text
 identifiers:
